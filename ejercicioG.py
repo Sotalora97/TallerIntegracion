@@ -1,3 +1,7 @@
+#D)el valor de h es 0.0001
+#Santiago Otalora
+#Juan Pablo Rodriguez Lopez
+#David Vasquez
 import math
 h = [0.1,0.01,0.0011,0.0001,0.00001]
 x0= 1.8
